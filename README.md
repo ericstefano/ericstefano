@@ -31,13 +31,7 @@ Currently I'm a Information Systems student at [Pontifical Catholic University o
     <img src="https://github-readme-stats.vercel.app/api?username=ericstefano&count_private=true&show_icons=true&include_all_commits=true&hide_border=true">
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ericstefano&hide_border=true">
 </div>
-</div>
 
-# 🎧 Now on my Spotify
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sfmklyay1rm9kgsz30wg7d7lu&cover_image=true&theme=compact">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ericstefano.ericstefano" width=100>
 </div>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ericstefano.ericstefano" width=100>
-
-
