@@ -15,7 +15,7 @@ Currently I'm a Information Systems student at [Pontifical Catholic University o
 [![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=f0db4f)](https://www.w3.org/standards/webdesign/script.html)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Node.js](https://img.shields.io/badge/-Nodejs-68a063?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ericstefano)
 [![Linux](https://img.shields.io/badge/-GNU/Linux-darkgray?style=for-the-badge&logo=Linux&logoColor=white)](https://www.gnu.org/gnu/linux-and-gnu.html)
