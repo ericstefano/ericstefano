@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ericstefano/ericstefano/master/wave.gif" width="30px">😄 Hello, I'm Eric!
 
-Currently I'm a Information Systems student at [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/) and also a scholarship holder at [Research Development Foundation](https://www.fundep.ufmg.br/). I'm a technology enthusiast and love everything about it, from software to hardware! I'm learning new things daily and open to collaborate. Find out more about me and feel free to connect here:
+Currently I'm a Information Systems student at [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/). I'm a technology enthusiast and love everything about it, from software to hardware! I'm learning new things daily and open to collaborate. Find out more about me and feel free to connect here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericstefano-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericstefano/)](https://www.linkedin.com/in/ericstefano/)
 [![Instagram Badge](https://img.shields.io/badge/-stefano.eric-c13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/stefano.eric/)](https://www.instagram.com/stefano.eric/)
