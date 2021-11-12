@@ -5,7 +5,6 @@ Currently I'm a Information Systems student at [Pontifical Catholic University o
 [![Linkedin Badge](https://img.shields.io/badge/-ericstefano-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericstefano/)](https://www.linkedin.com/in/ericstefano/)
 [![Instagram Badge](https://img.shields.io/badge/-stefano.eric-c13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/stefano.eric/)](https://www.instagram.com/stefano.eric/)
 [![Gmail Badge](https://img.shields.io/badge/-ericstefano12@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ericstefano12@gmail.com)](mailto:ericstefano12@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-+55_31_98983--4821-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531989834821&text=Ol%C3%A1%20Eric%2C%20eu%20vi%20o%20seu%20perfil%20no%20Github!%20%F0%9F%98%81%0A%0AHello%20Eric%2C%20I%20saw%20your%20profile%20at%20Github!%20%F0%9F%98%81)](https://api.whatsapp.com/send?phone=5531989834821&text=Ol%C3%A1%20Eric%2C%20eu%20vi%20o%20seu%20perfil%20no%20Github!%20%F0%9F%98%81%0A%0AHello%20Eric%2C%20I%20saw%20your%20profile%20at%20Github!%20%F0%9F%98%81)
 
 # ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
