@@ -17,7 +17,6 @@ Currently I'm a Information Systems student at [Pontifical Catholic University o
 ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 # 🖥️ Programs
 
