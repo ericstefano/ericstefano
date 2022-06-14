@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ericstefano/ericstefano/master/wave.gif" width="30px">😄 Hello, I'm Eric!
+# 😄 Hello, I'm Eric!
 
 Currently I'm a Information Systems student at [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/). I'm a technology enthusiast and love everything about it, from software to hardware! I'm learning new things daily and open to collaborate. Find out more about me and feel free to connect here:
 
